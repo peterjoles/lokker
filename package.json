@@ -4,6 +4,7 @@
   "description": "Dark Theme containing Lokker Brand Colors",
   "version": "0.0.1",
   "homepage": "https://lokker.com/",
+  "repository": {"url": "https://github.com/peterjoles/lokker"},
   "engines": {
     "vscode": "^1.75.0"
   },
