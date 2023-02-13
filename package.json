@@ -1,0 +1,29 @@
+{
+  "name": "lokker-theme",
+  "displayName": "Lokker Theme",
+  "description": "Dark Theme containing Lokker Brand Colors",
+  "version": "0.0.1",
+  "homepage": "https://lokker.com/",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "theme",
+    "color-theme",
+    "lokker",
+    "privacy"
+],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Lokker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Lokker-color-theme.json"
+      }
+    ]
+  }
+}
