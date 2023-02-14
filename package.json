@@ -2,11 +2,12 @@
   "name": "lokker-theme",
   "displayName": "Lokker Theme",
   "description": "Dark Theme containing Lokker Brand Colors",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "https://lokker.com/",
   "repository": {"url": "https://github.com/peterjoles/lokker"},
+  "publisher": "lokker",
   "engines": {
-    "vscode": "^1.75.0"
+    "vscode": "^1.10.0"
   },
   "categories": [
     "Themes"
